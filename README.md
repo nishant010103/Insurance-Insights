@@ -174,6 +174,6 @@ Successfully developed an end-to-end **Insurance Analytics Capstone Project** th
 
 📧 Email: nishant030101@gmail.com
 
-🔗 LinkedIn: (Awww.linkedin.com/in/nishant-2483863b8)
+🔗 LinkedIn: (www.linkedin.com/in/nishant-2483863b8)
 
 ⭐ If you found this project useful, don't forget to Star the repository.
